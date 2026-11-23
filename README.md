@@ -1,4 +1,6 @@
 # Meus Projetos!
-primeiro repositorio do curso do git e github
+primeiro repositório do curso do git e github
 
-Repositorio criado durante uma aula ao vivo!
+Repositório criado durante uma aula ao vivo!
+
+Essa linha eu adicione diretamente no site!
